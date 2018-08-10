@@ -1,0 +1,482 @@
+[0213/134956.356:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0213/135120.888:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0213/135231.943:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0213/141811.690:ERROR:process_info.cc(349)] VirtualQueryEx: Accès refusé. (0x5)
+[0213/141811.691:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0213/141811.693:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0213/141811.693:ERROR:exception_snapshot_win.cc(87)] thread ID 14608 not found in process
+[0213/141811.693:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/141811.693:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt.  (0xc000010a)
+[0213/142200.561:ERROR:process_info.cc(349)] VirtualQueryEx: Accès refusé. (0x5)
+[0213/142200.562:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0213/142200.562:ERROR:process_reader_win.cc(242)] ReadMemory at 0x799697c of 12 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0213/142200.571:WARNING:process_snapshot_win.cc(71)] ReadMemory ExceptionInformation failed
+[0213/142200.571:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/142200.571:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt.  (0xc000010a)
+[0213/142225.047:ERROR:process_info.cc(349)] VirtualQueryEx: Accès refusé. (0x5)
+[0213/142225.047:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0213/142225.050:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0213/142225.050:ERROR:exception_snapshot_win.cc(87)] thread ID 12864 not found in process
+[0213/142225.050:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/142225.050:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt.  (0xc000010a)
+[0213/142228.845:ERROR:process_info.cc(349)] VirtualQueryEx: Accès refusé. (0x5)
+[0213/142228.845:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0213/142228.845:ERROR:process_reader_win.cc(242)] ReadMemory at 0xd5697c of 12 bytes failed: Seule une partie d’une requête ReadProcessMemory ou WriteProcessMemory a été effectuée. (0x12B)
+[0213/142228.846:WARNING:process_snapshot_win.cc(71)] ReadMemory ExceptionInformation failed
+[0213/142228.846:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/142228.846:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt.  (0xc000010a)
+[0213/142231.866:ERROR:process_info.cc(349)] VirtualQueryEx: Accès refusé. (0x5)
+[0213/142231.866:ERROR:process_info.cc(570)] ReadMemoryInfo failed
+[0213/142231.869:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0213/142231.869:ERROR:exception_snapshot_win.cc(87)] thread ID 2084 not found in process
+[0213/142231.869:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0213/142231.869:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Tentative d’accès à un processus en cours d’arrêt.  (0xc000010a)
+[0810/145652.479:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0810/145735.097:ERROR:file_io_win.cc(243)] SetEndOfFile: Nie mo¿na wykonaæ ¿¹danej operacji na pliku z otwart¹ sekcj¹ mapowania u¿ytkownika. (0x4C8)
+[0810/150435.939:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0810/151002.428:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0810/152629.168:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0810/153115.957:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0810/153238.601:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0810/154037.147:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0810/160418.821:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0810/160632.839:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0810/161347.961:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0810/163955.045:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0810/201631.705:ERROR:process_reader_win.cc(242)] ReadMemory at 0xf10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201631.925:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Szymon\Desktop\Discord Bot Maker\Discord Bot Maker.exe
+[0810/201631.925:ERROR:process_reader_win.cc(242)] ReadMemory at 0x778d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201631.926:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0810/201631.926:ERROR:process_reader_win.cc(242)] ReadMemory at 0x69b50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201631.932:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Program Files\AVAST Software\Avast\aswhookx.dll
+[0810/201631.953:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76f30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201631.958:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0810/201631.978:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75650000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201631.978:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0810/201631.978:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5ffc0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201631.979:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Szymon\Desktop\Discord Bot Maker\nw_elf.dll
+[0810/201631.979:ERROR:process_reader_win.cc(242)] ReadMemory at 0x745d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201631.982:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0810/201631.993:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77340000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.008:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0810/201632.008:ERROR:process_reader_win.cc(242)] ReadMemory at 0x741f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.021:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\CRYPTBASE.dll
+[0810/201632.022:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74200000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.030:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\SspiCli.dll
+[0810/201632.055:ERROR:process_reader_win.cc(242)] ReadMemory at 0x742c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.163:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0810/201632.199:ERROR:process_reader_win.cc(242)] ReadMemory at 0x775a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.295:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0810/201632.308:ERROR:process_reader_win.cc(242)] ReadMemory at 0x773a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.316:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0810/201632.317:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74e00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.317:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\PSAPI.DLL
+[0810/201632.318:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77780000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.319:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0810/201632.320:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75b50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.320:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0810/201632.321:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74380000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.330:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0810/201632.331:ERROR:process_reader_win.cc(242)] ReadMemory at 0x775f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.335:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0810/201632.343:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74cf0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.345:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0810/201632.345:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74840000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.346:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\win32u.dll
+[0810/201632.346:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.347:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\USER32.dll
+[0810/201632.348:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74b90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.348:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\gdi32full.dll
+[0810/201632.348:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74dc0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.349:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\GDI32.dll
+[0810/201632.349:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74800000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.349:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\IMM32.DLL
+[0810/201632.350:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74b40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.350:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\shlwapi.dll
+[0810/201632.351:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74df0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.351:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0810/201632.351:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74860000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.351:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\powrprof.dll
+[0810/201632.352:ERROR:process_reader_win.cc(242)] ReadMemory at 0x778b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.388:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0810/201632.388:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74fb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.389:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\windows.storage.dll
+[0810/201632.392:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75bf0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.393:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\SHELL32.dll
+[0810/201632.394:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73ae0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.394:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0810/201632.394:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71880000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.395:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0810/201632.395:ERROR:process_reader_win.cc(242)] ReadMemory at 0x721a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.395:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0810/201632.395:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73a30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.396:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0810/201632.396:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77680000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.396:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\ole32.dll
+[0810/201632.397:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74220000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.397:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0810/201632.397:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73650000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.397:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0810/201632.397:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71e30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.398:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEACC.dll
+[0810/201632.398:ERROR:process_reader_win.cc(242)] ReadMemory at 0x69f20000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.399:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.431_none_5d750ac5a7e1c779\COMCTL32.dll
+[0810/201632.399:ERROR:process_reader_win.cc(242)] ReadMemory at 0x69af0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.399:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\HID.DLL
+[0810/201632.400:ERROR:process_reader_win.cc(242)] ReadMemory at 0x57770000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.400:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Szymon\Desktop\Discord Bot Maker\ffmpeg.dll
+[0810/201632.400:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.401:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0810/201632.401:ERROR:process_reader_win.cc(242)] ReadMemory at 0x722a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.402:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0810/201632.402:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72290000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.438:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\credui.dll
+[0810/201632.523:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72570000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.561:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[0810/201632.579:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74830000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.597:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0810/201632.599:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74e10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.610:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0810/201632.610:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74d70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.611:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0810/201632.611:ERROR:process_reader_win.cc(242)] ReadMemory at 0x732e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.611:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[0810/201632.611:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b7a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.612:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\NTASN1.dll
+[0810/201632.613:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b7d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.614:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\ncrypt.dll
+[0810/201632.614:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72180000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.614:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0810/201632.614:ERROR:process_reader_win.cc(242)] ReadMemory at 0x70970000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.615:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0810/201632.615:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73640000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.615:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[0810/201632.615:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71850000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.626:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\dwmapi.dll
+[0810/201632.626:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71f10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.626:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\d3d9.dll
+[0810/201632.627:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71d90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.642:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\dxgi.dll
+[0810/201632.648:ERROR:process_reader_win.cc(242)] ReadMemory at 0x69220000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.662:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\d3d11.dll
+[0810/201632.699:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72260000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.713:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\dxva2.dll
+[0810/201632.737:ERROR:process_reader_win.cc(242)] ReadMemory at 0x55470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.750:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\ESENT.dll
+[0810/201632.751:ERROR:process_reader_win.cc(242)] ReadMemory at 0x684b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.769:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\wevtapi.dll
+[0810/201632.778:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72490000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.793:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\NETUTILS.DLL
+[0810/201632.802:ERROR:process_reader_win.cc(242)] ReadMemory at 0x724c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.802:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\SAMCLI.DLL
+[0810/201632.803:ERROR:process_reader_win.cc(242)] ReadMemory at 0xff10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.803:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Szymon\Desktop\Discord Bot Maker\nw.dll
+[0810/201632.803:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75580000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.803:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0810/201632.803:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73680000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.804:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0810/201632.804:ERROR:process_reader_win.cc(242)] ReadMemory at 0x51680000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.806:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Szymon\Desktop\Discord Bot Maker\node.dll
+[0810/201632.810:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6d4b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.811:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\system32\PrxerDrv.dll
+[0810/201632.811:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6d4f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.811:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\system32\mswsock.dll
+[0810/201632.811:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5ff00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.811:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Szymon\Desktop\Discord Bot Maker\lib\steam_api.dll
+[0810/201632.812:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5a890000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.813:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Szymon\Desktop\Discord Bot Maker\lib\sdkencryptedappticket.dll
+[0810/201632.814:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5ff40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.814:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Szymon\Desktop\Discord Bot Maker\lib\greenworks-win32.node
+[0810/201632.814:ERROR:process_reader_win.cc(242)] ReadMemory at 0xf10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.815:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Szymon\Desktop\Discord Bot Maker\Discord Bot Maker.exe
+[0810/201632.815:ERROR:process_reader_win.cc(242)] ReadMemory at 0x778d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.815:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0810/201632.815:ERROR:process_reader_win.cc(242)] ReadMemory at 0x69b50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.815:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Program Files\AVAST Software\Avast\aswhookx.dll
+[0810/201632.815:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76f30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.816:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0810/201632.816:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75650000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.816:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0810/201632.816:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5ffc0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.816:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Szymon\Desktop\Discord Bot Maker\nw_elf.dll
+[0810/201632.817:ERROR:process_reader_win.cc(242)] ReadMemory at 0x745d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.817:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0810/201632.817:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77340000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.817:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0810/201632.817:ERROR:process_reader_win.cc(242)] ReadMemory at 0x741f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.818:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\CRYPTBASE.dll
+[0810/201632.818:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74200000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.818:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\SspiCli.dll
+[0810/201632.818:ERROR:process_reader_win.cc(242)] ReadMemory at 0x742c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.818:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0810/201632.818:ERROR:process_reader_win.cc(242)] ReadMemory at 0x775a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.819:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0810/201632.819:ERROR:process_reader_win.cc(242)] ReadMemory at 0x773a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.819:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0810/201632.819:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74e00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.819:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\PSAPI.DLL
+[0810/201632.820:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77780000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.820:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0810/201632.820:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75b50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.820:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0810/201632.821:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74380000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.821:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0810/201632.822:ERROR:process_reader_win.cc(242)] ReadMemory at 0x775f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.822:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0810/201632.822:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74cf0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.822:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0810/201632.823:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74840000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.823:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\win32u.dll
+[0810/201632.826:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.828:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\USER32.dll
+[0810/201632.829:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74b90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.829:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\gdi32full.dll
+[0810/201632.829:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74dc0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.829:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\GDI32.dll
+[0810/201632.830:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74800000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.830:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\IMM32.DLL
+[0810/201632.830:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74b40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.830:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\shlwapi.dll
+[0810/201632.830:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74df0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.831:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0810/201632.831:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74860000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.831:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\powrprof.dll
+[0810/201632.831:ERROR:process_reader_win.cc(242)] ReadMemory at 0x778b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.833:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0810/201632.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74fb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\windows.storage.dll
+[0810/201632.834:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75bf0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.834:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\SHELL32.dll
+[0810/201632.835:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73ae0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.835:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0810/201632.835:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71880000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.835:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0810/201632.835:ERROR:process_reader_win.cc(242)] ReadMemory at 0x721a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.836:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0810/201632.836:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73a30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.836:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0810/201632.836:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77680000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.836:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\ole32.dll
+[0810/201632.837:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74220000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.837:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0810/201632.838:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73650000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.838:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0810/201632.838:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71e30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.838:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEACC.dll
+[0810/201632.838:ERROR:process_reader_win.cc(242)] ReadMemory at 0x69f20000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.839:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.431_none_5d750ac5a7e1c779\COMCTL32.dll
+[0810/201632.839:ERROR:process_reader_win.cc(242)] ReadMemory at 0x69af0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.839:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\HID.DLL
+[0810/201632.841:ERROR:process_reader_win.cc(242)] ReadMemory at 0x57770000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.842:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Szymon\Desktop\Discord Bot Maker\ffmpeg.dll
+[0810/201632.842:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.842:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0810/201632.842:ERROR:process_reader_win.cc(242)] ReadMemory at 0x722a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.843:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0810/201632.843:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72290000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.844:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\credui.dll
+[0810/201632.844:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72570000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.844:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[0810/201632.844:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74830000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.845:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0810/201632.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74e10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0810/201632.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74d70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.850:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0810/201632.850:ERROR:process_reader_win.cc(242)] ReadMemory at 0x732e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.850:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[0810/201632.851:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b7a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.851:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\NTASN1.dll
+[0810/201632.851:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b7d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.851:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\ncrypt.dll
+[0810/201632.851:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72180000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.851:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0810/201632.852:ERROR:process_reader_win.cc(242)] ReadMemory at 0x70970000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.852:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0810/201632.853:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73640000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.853:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[0810/201632.854:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71850000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.854:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\dwmapi.dll
+[0810/201632.854:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71f10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.854:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\d3d9.dll
+[0810/201632.854:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71d90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.855:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\dxgi.dll
+[0810/201632.855:ERROR:process_reader_win.cc(242)] ReadMemory at 0x69220000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.855:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\d3d11.dll
+[0810/201632.855:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72260000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.855:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\dxva2.dll
+[0810/201632.855:ERROR:process_reader_win.cc(242)] ReadMemory at 0x55470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.856:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\ESENT.dll
+[0810/201632.856:ERROR:process_reader_win.cc(242)] ReadMemory at 0x684b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.856:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\wevtapi.dll
+[0810/201632.856:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72490000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.857:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\NETUTILS.DLL
+[0810/201632.858:ERROR:process_reader_win.cc(242)] ReadMemory at 0x724c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.858:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\SAMCLI.DLL
+[0810/201632.860:ERROR:process_reader_win.cc(242)] ReadMemory at 0xff10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.861:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Szymon\Desktop\Discord Bot Maker\nw.dll
+[0810/201632.861:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75580000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.861:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0810/201632.861:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73680000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.861:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0810/201632.861:ERROR:process_reader_win.cc(242)] ReadMemory at 0x51680000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.862:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Szymon\Desktop\Discord Bot Maker\node.dll
+[0810/201632.862:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6d4b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.862:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\system32\PrxerDrv.dll
+[0810/201632.863:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6d4f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.863:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\system32\mswsock.dll
+[0810/201632.863:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5ff00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.864:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Szymon\Desktop\Discord Bot Maker\lib\steam_api.dll
+[0810/201632.864:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5a890000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.865:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Szymon\Desktop\Discord Bot Maker\lib\sdkencryptedappticket.dll
+[0810/201632.866:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5ff40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201632.866:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Szymon\Desktop\Discord Bot Maker\lib\greenworks-win32.node
+[0810/201635.828:ERROR:process_reader_win.cc(242)] ReadMemory at 0xf10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.841:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Szymon\Desktop\Discord Bot Maker\Discord Bot Maker.exe
+[0810/201635.841:ERROR:process_reader_win.cc(242)] ReadMemory at 0x778d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.842:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0810/201635.842:ERROR:process_reader_win.cc(242)] ReadMemory at 0x69b50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.842:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Program Files\AVAST Software\Avast\aswhookx.dll
+[0810/201635.843:ERROR:process_reader_win.cc(242)] ReadMemory at 0x76f30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.843:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0810/201635.843:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75650000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.844:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0810/201635.844:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5ffc0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.844:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Szymon\Desktop\Discord Bot Maker\nw_elf.dll
+[0810/201635.844:ERROR:process_reader_win.cc(242)] ReadMemory at 0x745d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.844:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0810/201635.844:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77340000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.844:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0810/201635.845:ERROR:process_reader_win.cc(242)] ReadMemory at 0x741f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.845:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\CRYPTBASE.dll
+[0810/201635.845:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74200000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.845:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\SspiCli.dll
+[0810/201635.845:ERROR:process_reader_win.cc(242)] ReadMemory at 0x742c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.845:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0810/201635.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x775a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0810/201635.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x773a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0810/201635.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74e00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.846:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\PSAPI.DLL
+[0810/201635.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77780000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.847:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0810/201635.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75b50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0810/201635.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74380000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.848:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0810/201635.848:ERROR:process_reader_win.cc(242)] ReadMemory at 0x775f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.849:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0810/201635.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74cf0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.849:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0810/201635.849:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74840000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.849:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\win32u.dll
+[0810/201635.850:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.851:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\USER32.dll
+[0810/201635.851:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74b90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.852:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\gdi32full.dll
+[0810/201635.853:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74dc0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.853:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\GDI32.dll
+[0810/201635.854:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74800000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.854:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\IMM32.DLL
+[0810/201635.854:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74b40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.855:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\shlwapi.dll
+[0810/201635.855:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74df0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.855:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0810/201635.855:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74860000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.855:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\powrprof.dll
+[0810/201635.855:ERROR:process_reader_win.cc(242)] ReadMemory at 0x778b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.856:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0810/201635.856:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74fb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.857:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\windows.storage.dll
+[0810/201635.857:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75bf0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.858:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\SHELL32.dll
+[0810/201635.858:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73ae0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.859:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0810/201635.859:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71880000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.860:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0810/201635.860:ERROR:process_reader_win.cc(242)] ReadMemory at 0x721a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.860:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0810/201635.860:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73a30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.861:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0810/201635.861:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77680000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.861:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\ole32.dll
+[0810/201635.861:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74220000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.861:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0810/201635.861:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73650000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.862:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0810/201635.862:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71e30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.862:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEACC.dll
+[0810/201635.862:ERROR:process_reader_win.cc(242)] ReadMemory at 0x69f20000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.862:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.431_none_5d750ac5a7e1c779\COMCTL32.dll
+[0810/201635.863:ERROR:process_reader_win.cc(242)] ReadMemory at 0x69af0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.863:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\HID.DLL
+[0810/201635.863:ERROR:process_reader_win.cc(242)] ReadMemory at 0x57770000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.863:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Szymon\Desktop\Discord Bot Maker\ffmpeg.dll
+[0810/201635.863:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.863:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0810/201635.863:ERROR:process_reader_win.cc(242)] ReadMemory at 0x722a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.864:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0810/201635.864:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72290000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.864:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\credui.dll
+[0810/201635.864:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72570000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.865:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[0810/201635.865:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74830000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.865:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0810/201635.865:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74e10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.865:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0810/201635.866:ERROR:process_reader_win.cc(242)] ReadMemory at 0x74d70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.866:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0810/201635.867:ERROR:process_reader_win.cc(242)] ReadMemory at 0x732e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.867:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[0810/201635.868:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b7a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.870:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\NTASN1.dll
+[0810/201635.870:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6b7d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.870:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\ncrypt.dll
+[0810/201635.871:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72180000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.871:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0810/201635.871:ERROR:process_reader_win.cc(242)] ReadMemory at 0x70970000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.871:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0810/201635.871:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73640000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.871:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[0810/201635.871:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71850000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.871:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\dwmapi.dll
+[0810/201635.872:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71f10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.872:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\d3d9.dll
+[0810/201635.872:ERROR:process_reader_win.cc(242)] ReadMemory at 0x71d90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.872:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\dxgi.dll
+[0810/201635.872:ERROR:process_reader_win.cc(242)] ReadMemory at 0x69220000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.873:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\d3d11.dll
+[0810/201635.873:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72260000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.874:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\dxva2.dll
+[0810/201635.874:ERROR:process_reader_win.cc(242)] ReadMemory at 0x55470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.874:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\ESENT.dll
+[0810/201635.874:ERROR:process_reader_win.cc(242)] ReadMemory at 0x684b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.875:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\wevtapi.dll
+[0810/201635.875:ERROR:process_reader_win.cc(242)] ReadMemory at 0x72490000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.875:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\NETUTILS.DLL
+[0810/201635.876:ERROR:process_reader_win.cc(242)] ReadMemory at 0x724c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.876:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\SAMCLI.DLL
+[0810/201635.876:ERROR:process_reader_win.cc(242)] ReadMemory at 0xff10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.877:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Szymon\Desktop\Discord Bot Maker\nw.dll
+[0810/201635.877:ERROR:process_reader_win.cc(242)] ReadMemory at 0x75580000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.877:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0810/201635.877:ERROR:process_reader_win.cc(242)] ReadMemory at 0x73680000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.877:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0810/201635.878:ERROR:process_reader_win.cc(242)] ReadMemory at 0x51680000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.878:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\Users\Szymon\Desktop\Discord Bot Maker\node.dll
+[0810/201635.878:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6d4b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.878:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\system32\PrxerDrv.dll
+[0810/201635.878:ERROR:process_reader_win.cc(242)] ReadMemory at 0x6d4f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.878:WARNING:pe_image_reader.cc(282)] could not read dos header from C:\WINDOWS\system32\mswsock.dll
+[0810/201635.879:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5ff00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.879:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Szymon\Desktop\Discord Bot Maker\lib\steam_api.dll
+[0810/201635.879:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5a890000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.879:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Szymon\Desktop\Discord Bot Maker\lib\sdkencryptedappticket.dll
+[0810/201635.879:ERROR:process_reader_win.cc(242)] ReadMemory at 0x5ff40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201635.879:WARNING:pe_image_reader.cc(282)] could not read dos header from \\?\C:\Users\Szymon\Desktop\Discord Bot Maker\lib\greenworks-win32.node
+[0810/201636.353:ERROR:process_reader_win.cc(242)] ReadMemory at 0x9cb000 of 86016 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0810/201636.353:ERROR:crash_report_exception_handler.cc(116)] WriteEverything failed
+[0810/201636.358:ERROR:scoped_process_suspend.cc(39)] NtResumeProcess: Podjêto próbê uzyskania dostêpu do procesu koñcz¹cego dzia³anie.  (0xc000010a)
+[0810/201703.142:WARNING:chrome_main_delegate.cc(569)] final extension: .js
+[0810/203114.646:WARNING:chrome_main_delegate.cc(569)] final extension: .js
